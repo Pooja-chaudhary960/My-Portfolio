@@ -7,6 +7,7 @@ const Projects = () => {
     { title: "Project Two", description: "Ecommerce.", link: "https://github.com/Pooja-chaudhary960/Ecommerce-website" },
     { title: "Project Three", description: "Thakali Restaurant.", link: "https://github.com/Pooja-chaudhary960/Thakali-Restaurant" },
     { title: "Project Four", description: "Hospital Management System.", link: "https://github.com/Pooja-chaudhary960/Hospital-Management" },
+    { title: "Project Five", description:"Doctor Appointment Booking", link:"https://github.com/Pooja-chaudhary960/doctor-appointment-booking"}
   ];
 
   return (
