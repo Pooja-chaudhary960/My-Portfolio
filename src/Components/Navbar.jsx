@@ -10,8 +10,8 @@ export default function Navbar() {
         <a href="#skills">Skills</a>
         <a href="#projects">Projects</a>
         <a href="#contact">Contact</a>
-        <a href="/FinalCV.pdf" target="_blank" rel="noreferrer">View Resume</a>
-        <a href="/FinalCV.pdf" download>Download Resume</a>
+        <a href="/Poojacv.pdf" target="_blank" rel="noreferrer">View Resume</a>
+        <a href="/Poojacv.pdf" download>Download Resume</a>
 
       </nav>
     </header>
